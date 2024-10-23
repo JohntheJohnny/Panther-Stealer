@@ -1,0 +1,5 @@
+pnpm-lock.yaml
+src/*
+resources/icons/*
+node_modules/
+*.exe
